@@ -1,3 +1,12 @@
+https://www.youtube.com/watch?v=7YO5DssfuGg
+
+npm install
+npm start
+npm install -g json-server
+json-server public/db.json --port 8000
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
